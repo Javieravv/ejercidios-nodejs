@@ -1,0 +1,23 @@
+<html>
+    <style>
+        button {
+            background-color: blue;
+            color: white;
+            padding: 10px;
+            border: none;
+            cursor: pointer;
+            border-radius: 5px;
+            width: 250px;
+        }
+    </style>
+    <body>
+        <h1>Hola <%= username.firstname %> <%= username.lastname %></h1>
+        <p>Este contenido está protegido porqué así lo querí!!</p>
+        <form action="/logout" method="post">
+            <button type="submit" id="btn-logout">Cerrar Sessión</button>
+        </form>
+    </body>
+
+    <script>
+    </script>
+</html>

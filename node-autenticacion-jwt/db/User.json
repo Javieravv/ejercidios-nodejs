@@ -1,0 +1,72 @@
+[
+    {
+        "_id": "69009dcf-73f6-466d-b34d-4d6197b3654a",
+        "username": "rodrigo5",
+        "password": "$2b$10$NyZIp8owFWDh0Hqh/zH/Ruy8K3Ilm6Zd9.QWxyTTL.eabBWxpoXW.",
+        "firstname": "Rodrigo José",
+        "lastname": "Castro Rodríguez"
+    },
+    {
+        "_id": "8c4a2947-33de-42d5-9f07-9f092389bfe0",
+        "username": "rodrigo2",
+        "password": "$2b$10$la4N.Uoh3ZjHEVWsdkn8ruRkvjLClcNGDrm8NxKIP0Kp8zn6anHwS",
+        "firstname": "Rodrigo",
+        "lastname": "Cantante"
+    },
+    {
+        "_id": "f48df0a2-2598-4299-8500-2f00109ad656",
+        "username": "rodrigo1",
+        "password": "$2b$10$P/h7d0F5xDTAHu3ymZ02pO.J/gZnTA2RGXi5d4HsxvJrTooCwqZVC",
+        "firstname": "Rodrigo",
+        "lastname": "Pineda"
+    },
+    {
+        "_id": "3bd51339-d30c-4635-8cdc-096f9f851fe9",
+        "username": "rodrigo",
+        "password": "$2b$10$RcVGZqJg.L2SLPYAZ9BBs.YBRbWi3cC4rKc4k5XIucohXxthSh6Q.",
+        "firstname": "Rodrigo de Bastidas",
+        "lastname": "Duarte"
+    },
+    {
+        "_id": "ac0dddd4-e53d-4f46-8187-685c12e02fc0",
+        "username": "pedro",
+        "password": "$2b$10$/k/oD5sd6xhVs3DSPS3AVOX6xf0jDk6vmNezi3QE1PKdC43/zAD/O",
+        "firstname": "Pedro ",
+        "lastname": "Castro"
+    },
+    {
+        "_id": "6baedc10-c820-49b6-8367-4e18d010233a",
+        "username": "maira",
+        "password": "$2b$10$PrXIy72/GHiBIH0VYEpqwOSDYajwh5PNjW.rgZwUm1ZUBhWb1saMy",
+        "firstname": "Maria ",
+        "lastname": "Duarte"
+    },
+    {
+        "_id": "20855eba-cf2c-4faf-8bfd-64af9ab1e3f0",
+        "username": "maria",
+        "password": "$2b$10$DJY5gRFmuL3/MMqJHBkvveZ9FkECYvXMvIPXqtDBnTrQ5ScuM9h7a",
+        "firstname": "María Antonieta",
+        "lastname": "De las Nieves"
+    },
+    {
+        "_id": "6abb13b7-3fb1-41f0-b44d-c111428b0edb",
+        "username": "juan",
+        "password": "$2b$10$4kXIxPrPOm/yE5/h1da.FOWLC9l2.547CPmrpjfIEttlirAD58b5O",
+        "firstname": "Juan Carlos",
+        "lastname": "Coronel"
+    },
+    {
+        "_id": "1c8f6409-59dd-40b9-9182-42128b2a70b5",
+        "username": "javieravv2",
+        "password": "$2b$10$eWAA4SKN00JjVo0458D16OqBtEL43GMC2wJrgN85XXIIy3Rzaafvq",
+        "firstname": "Javier Armando 2",
+        "lastname": "Vargas Vega 2"
+    },
+    {
+        "_id": "9abb3d8f-fb98-45ff-8a86-3caf866ccc5c",
+        "username": "javieravv1",
+        "password": "$2b$10$kMB3z9ijqw06wkJOXexEsew0BZSuKxZPUxg3w4t6mI4NYTXJ76QHq",
+        "firstname": "Javier Armando",
+        "lastname": "Vargas Vega"
+    }
+]
