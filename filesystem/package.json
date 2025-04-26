@@ -1,0 +1,26 @@
+{
+    "name": "filesystem",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+        "dev": "nodemon",
+        "build": "rimraf ./dist && tsc",
+        "start": "npm run build && node dist/app.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "description": "",
+    "dependencies": {
+        "express": "^4.21.2"
+    },
+    "devDependencies": {
+        "@types/express": "^5.0.0",
+        "@types/node": "^22.10.1",
+        "nodemon": "^3.1.7",
+        "rimraf": "^5.0.10",
+        "ts-node": "^10.9.2",
+        "ts-node-dev": "^2.0.0",
+        "typescript": "^5.7.2"
+    }
+}
